@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/OS/PCModel/Manager.cpp
+Manager.h
+D:/OS/PCModel/Manager.h
+
+D:/OS/PCModel/Manager.h
+Process.h
+D:/OS/PCModel/Process.h
+iostream
+-
+
+D:/OS/PCModel/Process.h
+iostream
+-
+vector
+-
+
